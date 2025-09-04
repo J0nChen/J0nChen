@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Hi there! My name is Jon Chen
-I am currently working on how to use github
+Change
