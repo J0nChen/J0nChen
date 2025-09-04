@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Hi there! My name is Jon Chen
-Change
+I am making changes to my readme
